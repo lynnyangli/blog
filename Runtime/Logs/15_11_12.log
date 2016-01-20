@@ -1,0 +1,1502 @@
+[ 2015-11-12T10:38:05+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T10:38:08+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:38:37+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:42:46+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:46:03+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T10:47:36+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:47:57+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T10:48:07+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:48:11+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:21+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:23+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:24+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:24+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:49+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:51+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:51+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:51+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:53+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:54+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:54+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:51:54+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:52:09+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:52:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:53:29+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:40+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T10:54:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:43+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:46+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T10:54:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:48+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:49+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:54:50+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:55:24+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:55:26+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:55:27+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:55:28+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:55:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:55:57+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T10:55:58+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:56:00+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:56:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:58:32+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:58:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T10:58:38+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T10:58:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:58:41+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:58:43+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:59:04+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:59:05+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:59:07+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T10:59:09+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:01:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:01:12+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:08:47+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:10:16+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: Think\Model:filed方法不存在！
+
+[ 2015-11-12T11:10:29+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:52+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:53+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:54+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:54+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:10:54+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:55+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:10:55+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:55+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:55+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:10:56+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:10:56+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:11:52+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T11:12:12+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T11:13:35+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:13:37+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:13:37+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:13:38+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:13:38+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:13:39+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:13:39+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:13:39+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:13:39+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:13:45+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:17:12+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: Think\Controller:assig方法不存在！
+
+[ 2015-11-12T11:17:24+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:17:44+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:18:09+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:18:09+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:18:10+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:18:10+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:18:10+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:18:11+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:18:11+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:18:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:18:14+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:20:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:52+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:55+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:56+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:56+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:57+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:20:57+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:22:41+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:44+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:22:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:50+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:52+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:22:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:22:54+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:22:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:04+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:05+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:06+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:07+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:08+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:14+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:18+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:23+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:25+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:25+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:27+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T11:24:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:32+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:43+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:44+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:49+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:24:52+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:55+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:56+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:58+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:24:59+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:25:00+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:25:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:25:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:25:15+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:25:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:25:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:26:00+08:00 ] 127.0.0.1 /blog/index.php/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:26:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:27:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:28:29+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:28:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:30:56+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:30:58+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:31:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:31:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:31:48+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:31:57+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:31:58+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:32:28+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:44+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:34:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:00+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:35:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:05+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:06+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:06+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:08+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:09+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:35:11+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:17+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:35:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:36:28+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T11:36:29+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:36:33+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:36:34+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:17+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:37:35+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:37:41+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:38:08+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:38:11+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:38:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:38:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:38:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T11:38:41+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:40:48+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:41:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:41:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:41:59+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:42:41+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:42:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:43:29+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T11:43:40+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T12:03:06+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:07+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:07+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T12:03:08+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:11+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:14+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:17+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:17+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:18+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/C_C++/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/C_C++/page/3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/C_C++/page/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:22+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:03:23+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T12:04:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:10:09+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:10:11+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:10:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:10:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:10:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:10:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:10:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:10:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:10:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:10:17+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:10:18+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:10:27+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:17+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:20+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:23+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:24+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:24+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:24+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:25+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:25+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:25+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:25+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:25+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:26+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:26+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:26+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:26+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:26+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:42+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:42+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:19:42+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:20:00+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+
+[ 2015-11-12T20:20:09+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:21:22+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:21:24+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:22:11+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:08+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:23:18+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:23+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:26+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:29+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:31+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:39+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:42+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:42+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:42+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/5
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:43+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/6
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:43+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:43+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:43+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/9
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:43+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/10
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:44+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/11
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:47+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/12
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:47+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/13
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:47+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/14
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:49+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/15
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:23:51+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/16
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:24:04+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/17
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:24:53+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:24:55+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:24:57+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:25:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:32+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:33+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:25:34+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:34+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T20:25:35+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:37+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:38+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:38+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:25:47+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:26:02+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:26:08+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:37:33+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+
+[ 2015-11-12T20:37:44+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:37:46+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:38:00+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:38:01+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+
+[ 2015-11-12T20:38:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:38:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:38:04+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:38:05+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E5%85%B6%E5%AE%83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:38:06+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:38:07+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:38:08+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:38:08+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:38:17+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:38:58+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:39:02+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:40:09+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:40:19+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:40:55+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:41:20+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:41:57+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:07+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:08+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:32+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:34+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:34+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:35+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:42:38+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+
+[ 2015-11-12T20:43:38+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:43:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:43:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:43:43+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T20:43:44+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T20:44:29+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/index/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:45:49+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:45:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/Linux/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:45:56+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T20:46:27+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T21:12:25+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:27:44+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:27:49+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:28:09+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:28:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:28:32+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-12T21:32:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:34:23+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:34:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-12T21:34:40+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/from/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:34:43+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:34:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-12T21:34:46+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

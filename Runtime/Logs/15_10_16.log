@@ -1,0 +1,2607 @@
+[ 2015-10-16T21:02:35+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:03:23+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:03:50+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:05:01+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:05:13+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:05:42+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:06:02+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:06:27+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:06:35+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:07:05+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:07:37+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:07:43+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:07:44+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:07:45+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:08:06+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:08:07+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:08:23+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:08:32+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:09:44+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:09:48+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:09:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:10:30+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:10:33+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:10:33+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:10:34+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:10:34+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:10:34+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-10-16T21:10:35+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:10:35+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:10:35+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:10:36+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:10:36+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:10:36+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-10-16T21:10:44+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:11:09+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:13:37+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:13:55+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:14:18+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:14:20+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:14:20+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:14:20+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:14:20+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:14:21+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:14:21+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:14:21+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:14:21+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:14:28+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:14:35+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:14:50+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:14:59+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:00+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:15:00+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:15:00+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:01+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:02+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:15:02+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:15:02+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:02+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:02+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:15:03+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:03+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:03+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:04+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:15:04+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:05+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-10-16T21:15:05+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:09+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:15:24+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:26:16+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:26:27+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:26:28+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:26:46+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:27:15+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:28:05+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:28:30+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:28:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-10-16T21:29:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:29:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:29:24+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-10-16T21:29:24+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:29:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:38+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:40+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:40+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:41+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:41+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:41+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:43+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:29:43+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T21:30:22+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:30:23+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: Think\Controller:getData方法不存在！
+
+[ 2015-10-16T21:30:35+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C/C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:30:49+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:31:23+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:31:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:18+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:22+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:35+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:35+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:32:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:33:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:33:11+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:33:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:37:57+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:39:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:39:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:39:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:39:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:39:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T21:39:52+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:39:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:39:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:42:44+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:42:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:42:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:43:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:43:32+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:43:33+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:43:33+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:43:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:43:58+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:00+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:01+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:18+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:21+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:23+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:25+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:27+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:28+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:41+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:48+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:44:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:24+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:25+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:25+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:26+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:26+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:27+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:45:55+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:46:05+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:47:01+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:47:01+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-10-16T21:47:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:47:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:47:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-10-16T21:54:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:48+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:49+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:58+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:58+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:54:59+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-10-16T21:54:59+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:00+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:01+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:55:56+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:56:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:56:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:56:34+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:56:36+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:56:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T21:59:26+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: Think\Controller:getData方法不存在！
+
+[ 2015-10-16T21:59:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:00:33+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:00:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:00:49+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:00:57+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:00:59+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:01:17+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:01:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:01:38+08:00 ] 127.0.0.1 /blog/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.040000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:01:44+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleClass
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="Qy9DKys=" ) LIMIT 1   [ RunTime:0.030000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="TGludXg=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="UEhQ" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="6K6h566X5py6" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5pWw5o2u57uT5p6EL+eul+azlQ==" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5YW25a6D" ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\cb64d4dda35180ecb8abdb4fbc5629b4.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.030000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:01:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.010000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="Qy9DKys=" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.040000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:01:57+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/Linux/key/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="TGludXg=" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:02:01+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:02:04+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:02:06+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:02:07+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:29+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:31+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:03:32+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:04:56+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:00+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:01+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:05+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:06+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:12+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/C/C++/key/0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="Qw==" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\ArticleListController.class.php 第 52 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleClass
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="Qy9DKys=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="TGludXg=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="UEhQ" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="6K6h566X5py6" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5pWw5o2u57uT5p6EL+eul+azlQ==" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5YW25a6D" ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\cb64d4dda35180ecb8abdb4fbc5629b4.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/DoArticleClass/delete/id/12
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: DELETE FROM `class` WHERE ( id=12 ) [ RunTime:0.040000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:19+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleClass
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.010000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="TGludXg=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="UEhQ" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="6K6h566X5py6" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5pWw5o2u57uT5p6EL+eul+azlQ==" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5YW25a6D" ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\cb64d4dda35180ecb8abdb4fbc5629b4.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:23+08:00 ] 127.0.0.1 /blog/index.php/Admin/DoArticleClass/delete/id/14
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: DELETE FROM `class` WHERE ( id=14 ) [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:05:24+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleClass
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="TGludXg=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="UEhQ" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="6K6h566X5py6" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5YW25a6D" ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\cb64d4dda35180ecb8abdb4fbc5629b4.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:04+08:00 ] 127.0.0.1 /blog/index.php/Admin/DoArticleClass/newclass
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: INSERT INTO `class` (`name`,`des`) VALUES ('Q19DKys=','57uP5YW45Lit57uP5YW4') [ RunTime:0.210000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:05+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleClass
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="TGludXg=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="UEhQ" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="6K6h566X5py6" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="Q19DKys=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5YW25a6D" ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\cb64d4dda35180ecb8abdb4fbc5629b4.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="TGludXg=" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:13+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/C_C++/key/3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.010000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="Q19DKys=" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\ArticleListController.class.php 第 52 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/Linux/key/0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="TGludXg=" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/PHP/key/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="UEhQ" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.010000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\ArticleListController.class.php 第 52 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:22+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2015-10-16T22:06:23+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:38+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:06:39+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:06:44+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/C_C++/key/3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.002000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="Q19DKys=" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\ArticleListController.class.php 第 52 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:45+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/%E8%AE%A1%E7%AE%97%E6%9C%BA/key/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.002001s ]
+SQL: SELECT * FROM `articles` WHERE ( class="6K6h566X5py6" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\ArticleListController.class.php 第 52 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:46+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleList/doarticlelist/state/showclass/class/PHP/key/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `articles` WHERE ( class="UEhQ" ) ORDER BY id desc LIMIT 0,15   [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\ArticleListController.class.php 第 52 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 127 行.
+NOTIC: [8] Undefined variable: sum G:\phpStudy\WWW\blog\Runtime\Cache\Admin\1e13b15714a638c4596742d05a130d53.php 第 193 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:49+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/C_C++
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:06:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:06:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:52+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:06:53+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:55+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:57+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:06:58+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:07:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:07:05+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:07:06+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:07:09+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:07:11+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:07:12+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:07:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:08:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:08:09+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:08:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:08:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:08:45+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:08:46+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:10:35+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:11:11+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:11:24+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:11:47+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:11:54+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/class/TGludXg=/page%7Bpage%7D
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T22:13:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:13:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:13:59+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/class/TGludXg=/pageNaN
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T22:14:26+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-10-16T22:14:29+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/class/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T22:14:33+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/class/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T22:15:23+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:15:26+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/class/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T22:15:29+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore/class/TGludXg=/page2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:class
+
+[ 2015-10-16T22:16:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:16:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:getMore
+
+[ 2015-10-16T22:17:14+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:17:17+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:19:02+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:19:03+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:19:04+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:19:04+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:19:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:19:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:19:21+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:19:30+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:19:34+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:20:19+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:20:22+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:20:37+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:20:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:20:55+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:20:57+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/TGludXg=/page1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:21:25+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:21:27+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:21:29+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/TGludXg=/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:21:39+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:21:42+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/TGludXg=/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:21:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/TGludXg=/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:05+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:08+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/TGludXg=/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:10+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/TGludXg=/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:26+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:28+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/TGludXg=/page/1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:48+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:52+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:22:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:22:55+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:23:50+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:23:51+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:23:52+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/%E8%AE%A1%E7%AE%97%E6%9C%BA
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:23:53+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:23:54+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:23:55+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:23:56+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:23:57+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:24:11+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:24:13+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:24:15+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/UEhQ/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:24:16+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/index/class/Linux
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T22:24:18+08:00 ] 127.0.0.1 /blog/index.php/Home/ChangeClass/getMore/class/TGludXg=/page/2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:24:52+08:00 ] 127.0.0.1 /blog/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:25:03+08:00 ] 127.0.0.1 /blog/index.php/Home/HomeGetMore
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:25:20+08:00 ] 127.0.0.1 /blog/index.php/Home/ShowArticle/index/id/8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:25:30+08:00 ] 127.0.0.1 /blog/index.php/Admin/NewArticle
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.003000s ]
+SQL: SELECT `id`,`name` FROM `class`  [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:46:54+08:00 ] 127.0.0.1 /blog/index.php/Admin/ArticleClass
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="TGludXg=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="UEhQ" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="6K6h566X5py6" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="Q19DKys=" ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class="5YW25a6D" ) LIMIT 1   [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\cb64d4dda35180ecb8abdb4fbc5629b4.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T22:47:23+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLink
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLink
+
+[ 2015-10-16T22:50:04+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLink
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLink
+
+[ 2015-10-16T22:50:19+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLink
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLink
+
+[ 2015-10-16T22:50:35+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T22:51:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T22:51:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T22:51:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T22:54:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T22:55:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T22:55:01+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T22:55:01+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T23:13:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:FriendLinkList
+
+[ 2015-10-16T23:13:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 模板不存在:./Admin/View/FriendLinkList/index.html
+
+[ 2015-10-16T23:13:38+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 152 行.
+NOTIC: [8] Undefined variable: CLASS_DATA G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 186 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T23:40:47+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.001001s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:41:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T23:41:36+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T23:42:13+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 152 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:42:45+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.002000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 138 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:43:04+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 138 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T23:44:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 150 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-10-16T23:44:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 150 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:44:31+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 150 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-16T23:44:42+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 150 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:44:50+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 150 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:45:20+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 150 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:45:34+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 150 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-10-16T23:45:47+08:00 ] 127.0.0.1 /blog/index.php/Admin/FriendLinkList
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\phpStudy\WWW\blog\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() G:\phpStudy\WWW\blog\Admin\Controller\FriendLinkListController.class.php 第 20 行.
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: tip G:\phpStudy\WWW\blog\Runtime\Cache\Admin\3de07ee97a851c022cd9c2e4cd6b14cc.php 第 149 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

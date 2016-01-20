@@ -1,0 +1,4 @@
+[ 2015-11-20T15:05:42+08:00 ] 58.20.192.211 /index.php/Admin/DoNewArticle/
+ERR: 1054:Unknown column '5pWw5o2u57uT5p6E5LiO566X5rOV' in 'where clause'
+ [ SQL语句 ] : SELECT `id` FROM `class` WHERE ( name=5pWw5o2u57uT5p6E5LiO566X5rOV ) LIMIT 1  
+

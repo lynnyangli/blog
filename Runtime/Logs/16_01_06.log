@@ -1,0 +1,648 @@
+[ 2016-01-06T01:55:06+08:00 ] 115.28.101.54 search.yahoo.com:443
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000025s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000624s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000713s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000081s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000088s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000109s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000503s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000089s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2016-01-06T01:55:06+08:00 ] 115.28.101.54 search.yahoo.com:443
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000766s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000680s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000095s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000084s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000083s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000195s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000955s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000102s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2016-01-06T02:25:24+08:00 ] 123.151.42.61 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000640s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000167s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000105s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000094s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000103s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000122s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.001016s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000110s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000374s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000155s ]
+
+[ 2016-01-06T03:02:42+08:00 ] 121.42.0.35 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000173s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000906s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000702s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000092s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000086s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000091s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000820s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000124s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2016-01-06T06:12:55+08:00 ] 103.41.53.253 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000898s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000110s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000819s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000093s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000084s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000085s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000098s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000095s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000873s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000100s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2016-01-06T07:13:22+08:00 ] 54.183.120.101 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000815s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000125s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000913s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000096s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000082s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000127s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000104s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000839s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000101s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000097s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2016-01-06T09:31:27+08:00 ] 111.248.97.174 vip163mx00.mxmail.netease.com:25
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000653s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000651s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000091s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000098s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000083s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000169s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000600s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000090s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000137s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000240s ]
+
+[ 2016-01-06T10:19:38+08:00 ] 103.41.53.252 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000846s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000111s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000859s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000091s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000084s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000102s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000821s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000104s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000081s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-01-06T10:31:29+08:00 ] 120.24.251.13 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000640s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000138s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000705s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000091s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000084s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000091s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000106s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000556s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000090s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2016-01-06T10:35:18+08:00 ] 111.85.191.131 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.001109s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000264s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000108s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000087s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000095s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000946s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000100s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008662s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+
+[ 2016-01-06T13:52:04+08:00 ] 222.186.25.95 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000825s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000122s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001287s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000141s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000121s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000117s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000135s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000242s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.001124s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000128s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000034s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2016-01-06T14:25:08+08:00 ] 123.151.42.61 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000853s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000120s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000995s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000113s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000194s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000102s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000098s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000165s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.001107s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000120s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000142s ]
+
+[ 2016-01-06T15:39:46+08:00 ] 182.48.105.216 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000152s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.001035s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000142s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001081s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000112s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000116s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000125s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000128s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000938s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000108s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000074s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2016-01-06T16:26:28+08:00 ] 123.57.10.148 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.001276s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000139s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000977s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000115s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000185s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000110s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000868s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000100s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000080s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2016-01-06T18:14:38+08:00 ] 103.41.52.91 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000831s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000110s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001017s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000134s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000113s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000110s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000122s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000131s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.001485s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000111s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008793s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000066s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-01-06T22:04:40+08:00 ] 52.53.237.77 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000821s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000131s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000873s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000104s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000101s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000124s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000124s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000731s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000089s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000058s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2016-01-06T22:06:35+08:00 ] 103.41.53.252 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000715s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000677s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000141s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000093s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000087s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000513s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000090s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000058s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-01-06T22:46:10+08:00 ] 54.67.110.50 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000761s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000166s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000661s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='UEhQ' ) LIMIT 1   [ RunTime:0.000089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) LIMIT 1   [ RunTime:0.000083s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `articles` WHERE ( class='Q29tcHV0ZXIgU3lzdGVt' ) LIMIT 1   [ RunTime:0.000082s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000093s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000137s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000651s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000096s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000060s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+

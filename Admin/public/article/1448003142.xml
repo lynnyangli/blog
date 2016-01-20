@@ -1,0 +1,17 @@
+<p><span style="color: rgb(51, 51, 51); font-family: 微软雅黑, &#39;Microsoft Yahei&#39;, Arial, Helvetica, sans-serif; line-height: 22.4px; font-size: 18px; background-color: rgb(238, 238, 238);">一只刚出生的奶牛，4年生1只奶牛，以后每一年生1只。现在给你一只刚出生的奶牛，求20年后有多少奶牛。</span></p><p>第一个循环模拟20十年，第二个循环在每一年中检测与添加奶牛<br/></p><p></p><pre class="brush:java;toolbar:false;">
+$cow&nbsp;=&nbsp;&nbsp;array();
+$cow[0]&nbsp;=1;
+$year&nbsp;=&nbsp;20;
+$sum&nbsp;=1;
+for($i&nbsp;=&nbsp;0;$i&lt;$year;&nbsp;$i++)
+{
+&nbsp;&nbsp;&nbsp;&nbsp;foreach($cow&nbsp;as&nbsp;$key=&gt;$value)
+&nbsp;&nbsp;&nbsp;&nbsp;{
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if($value&nbsp;&gt;=4){
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$cow[]&nbsp;=1;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$sum++;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$cow[$key]++;
+&nbsp;&nbsp;&nbsp;&nbsp;}
+}
+echo&nbsp;$sum;</pre><p><span style="color: rgb(51, 51, 51); font-family: 微软雅黑, &#39;Microsoft Yahei&#39;, Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22.4px; background-color: rgb(238, 238, 238);"></span><br/></p>

@@ -1,0 +1,154 @@
+<!DOCTYPE  html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="/blog/Home/public/bootstrap/css/bootstrap.min.css">
+	<style type="text/css">
+		body{
+                    background: url(/blog/Home/public/img/bg_1.jpg) no-repeat center 0; background-size:100% 100%; background-attachment:fixed;
+			height: 100%;
+			margin-top: 50px;
+                        background-color: #ccc;
+		}
+               
+		#content-main{
+			margin-top:1em;
+		}
+                #title{
+                    margin-left: 1em;
+                }
+                .doment{
+                    margin-bottom:1.2em;
+                    position:relative;
+                    background-color:#FFF;
+                    border-radius: 6px;
+                    padding: 6px;
+                    border: solid 3px black ;
+                }
+		.domemt-body{
+			/*border-left: solid 3px black ;*/  
+			min-height: 100px;
+                        font-size: 1.1em;
+                        padding-bottom: 2em;
+		}
+		.doment-bottom{
+			width:200px; height: 20px;
+                        float: right;
+                        position:  absolute;
+                        bottom: 5px; right: 5px;
+		}
+                #head_img{
+                    height: 150px;
+                }
+                 #title-right{
+                    margin-top: 0px;
+                    background-color: #FFF;
+                    border:2px solid black;
+                    border-radius: 6px;
+                    margin-left:5em;
+                    width:18em;
+                }
+                .list-left-tit{
+                    border:2px solid black;
+                    border-radius: 6px;
+                    line-height: 1.3em;
+                }
+                .list-left{
+                    /*border-right: solid 3px black;*/
+                    /*border-left:solid 3px black;*/ 
+                    margin-right:8px;  
+                }
+               
+	</style>
+        <script type="text/javascript">
+            var page = 2;
+            function getMore()
+            {
+		var xhr;
+                var class_type='{$CLASS}';
+		if(window.XMLHttpRequest){
+			xhr=new XMLHttpRequest();
+		}else{
+			xhr=new ActiveXObjiect("Microsoft.XMLHTTP");	//IE5,6
+		}
+		xhr.onreadystatechange=function(){
+			if(xhr.readyState==4)
+			{
+                            var mian_content = document.getElementById("main_content");
+                            main_content.innerHTML = main_content.innerHTML+xhr.responseText;
+			}
+		}
+		xhr.open("get","http://127.0.0.1/blog/index.php/Home/ChangeClass/getMore/class/"+class_type+"/page/"+page,true);7
+		xhr.send(null);
+                page++;
+            }
+	</script>
+</head>
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header ">
+                                <!--<a href="" class="navbar-brand">Nobody's Blog</a>-->
+				<!--<a href="#" class="navbar-brand" ><img id="head_img" src="/blog/Home/public/img/head.png" alt="Brand"></a>-->
+                                
+                        </div>
+			<div class="collapse navbar-collapse " >
+				<ul class="nav navbar-nav">
+                                    <li> <a href="__APP__">首页</a></li>
+                                    <foreach name="CLASS_LIST" item="vo" key="k">
+                                        <if condition="$CLASS eq $vo"> <li class="active"><a  href="__APP__/Home/ChangeClass/index/class/{$vo}">{$vo}</a></li>
+                                           <else /> <li><a href="__APP__/Home/ChangeClass/index/class/{$vo}">{$vo}</a></li>
+                                        </if>
+                                    </foreach>
+				</ul>
+			</div>
+		</div>
+	</nav>
+    <div class="container">
+            <h1 id="title">感谢那些在网上分享的人们<small>&emsp;在此与大家吐槽一些我遇到问题</small></h1>
+    </div>
+	<div class="container-full" id="content-main">
+            <div class="row">
+            <div class="col-md-8 col-md-offset-1" id="main_content">
+                <foreach name="ARTICLES" item="vo">
+                    <div class="doment" >
+                    <div class="doment-head">
+                        <a href="__APP__/Home/ShowArticle/index/id/{$vo.id}"><h3>{$vo.title}<small>&emsp;{$vo.time}</small></h3></a>
+                    </div>
+                    <div class="domemt-body">
+                        <p>&emsp;&emsp;{$vo.description}</p>
+                        <div class="doment-bottom">
+                            <span class="glyphicon glyphicon-search" aria-hidden="true">阅读15</span>&emsp;
+                            <span class="gglyphicon glyphicon-pencil" aria-hidden="true">评论15</span>&emsp;
+                        </div>
+                     </div>
+                </div>
+                </foreach>
+            </div>
+            <div class="col-sm-3" id="title-right">
+                <br/>
+                <h4 class="list-left-tit">阅读排行</h4>
+                    <ul class="list-group list-left">
+                        <foreach name="READ_RANK" item="vo">
+                            <a href="__APP__/Home/ShowArticle/index/from/index/id/{$vo.id}" class="list-group-item  ">{$vo.title}<span class="badge">{$vo.read_sum}</span></a>
+                        </foreach>
+                    </ul>
+                    <h4 class="list-left-tit">友情链接</h4>
+                    <ul class="list-group list-left">
+                        <a href="#" class="list-group-item">Cras justo odio</a>
+                        <a href="#" class="list-group-item">Cras justo odio</a>
+                        <a href="#" class="list-group-item">Cras justo odio</a>
+                    </ul>
+            </div>
+            </div>     
+	</div>
+    <div class="foot row">
+        <div class="col-sm-3 col-md-offset-5">
+            <h4><a onclick="getMore(this);return false;" href="#"><span class="label label-default">加载更多</span></h4></a>
+        </div>
+    </div>
+    <div id="ajax">
+        
+    </div>
+</body>
+</html>
