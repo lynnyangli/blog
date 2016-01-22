@@ -8,7 +8,6 @@ class IndexController extends Controller {
     	$this->assign("APP_PATH",C("APP_PATH"));
         $this->assign("CLASS",$this->get_class());
         $this->assign("ARTICLES",$this->get_article_data(1));
-        $this->assign("ACT_CLASS",1);
         $this->assign("READ_RANK",$this->get_read_rank());
         $this->assign("LINK_DATA",$this->get_link_data());
     	$this->display();
@@ -30,11 +29,17 @@ class IndexController extends Controller {
                 {
                     return false;
                 }
-                $data=$articles_db->page($page,5)->order('id desc')->select();
+		
+		$c_color = ["74d89a","74bdd8","d87974","9e8ccf","d8d074"];
+                
+		$data=$articles_db->page($page,5)->order('id desc')->select();
                 foreach ($data as $key => $value) {
+			$data[$key]["color"] = $c_color[array_rand($c_color)];
                         $data[$key]['title']=base64_decode($value['title']);
                         $data[$key]['class']=base64_decode($value['class']);
                         $data[$key]['time']=date('Y-m-d',$value['time']);
+			$data[$key]['C']= mb_substr($data[$key]['class'],0,1,"utf-8");
+			$data[$key]['T_time']=date('m-d',$value['time']);
                         $data[$key]["description"] = base64_decode($value['description']);
                 }
                 return $data;

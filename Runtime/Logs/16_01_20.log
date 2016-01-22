@@ -610,3 +610,2840 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
 INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
 
+[ 2016-01-20T20:45:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000424s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000098s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000351s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000108s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 34 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000097s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 62 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000342s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000102s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000044s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2016-01-20T20:48:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000019s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000436s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000105s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000506s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000136s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 34 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000124s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 62 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000534s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000129s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000056s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-01-20T20:51:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000630s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000156s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000776s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000253s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000271s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000703s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000196s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2016-01-20T20:52:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000701s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000130s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000401s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000120s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000103s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000440s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000107s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2016-01-20T20:52:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000622s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000177s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000571s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000170s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000171s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000542s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000167s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2016-01-20T20:52:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000019s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000602s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000151s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000697s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000181s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000149s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000677s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000226s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000062s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-01-20T20:52:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000469s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000120s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000492s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000132s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000099s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000407s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000116s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000088s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2016-01-20T20:56:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000444s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000111s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000544s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000159s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000158s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000467s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000194s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000036s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000052s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2016-01-20T20:56:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000169s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000026s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000487s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000121s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000285s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000130s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000092s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000362s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000110s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000010s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000041s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2016-01-20T21:06:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000659s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000187s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000519s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000177s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000164s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000553s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000161s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-01-20T21:06:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000607s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000151s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000597s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000229s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000229s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000620s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000196s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000071s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-01-20T21:06:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000616s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000152s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000569s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000186s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000156s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000638s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000151s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000076s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2016-01-20T21:06:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000709s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000245s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000629s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000182s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000196s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000577s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000161s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000066s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2016-01-20T21:06:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000015s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000326s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000074s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000269s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000083s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000071s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000258s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000125s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000049s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2016-01-20T21:06:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000651s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000166s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000500s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000163s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000129s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000459s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000141s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000062s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2016-01-20T21:06:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000566s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000111s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000237s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000075s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000063s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000222s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000058s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000077s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-01-20T21:06:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000775s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000202s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000578s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000259s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000164s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000796s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000243s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-01-20T21:06:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000013s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000553s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000133s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000533s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000138s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000120s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000471s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000215s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2016-01-20T21:06:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000637s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000165s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000520s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000190s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000172s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000736s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000177s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000062s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-01-20T21:07:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000023s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000415s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000112s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000379s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000118s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000099s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000461s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000162s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000039s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2016-01-20T21:07:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000612s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000148s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000503s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000156s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000147s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000579s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000235s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009068s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000101s ]
+
+[ 2016-01-20T21:07:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000020s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000382s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000091s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000418s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000095s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000122s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000536s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000166s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005122s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000048s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2016-01-20T21:08:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000481s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000150s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000409s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000119s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000102s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000373s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000106s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000057s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2016-01-20T21:08:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000018s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000384s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000100s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000359s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000117s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000090s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000316s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000086s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2016-01-20T21:08:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000980s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000231s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000748s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000225s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000211s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000831s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000236s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000056s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000072s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2016-01-20T21:08:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000014s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000327s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000080s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000271s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000091s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000077s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000289s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000079s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003504s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-01-20T21:08:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000412s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000121s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000403s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000112s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000095s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000275s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000077s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000054s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000010s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000039s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2016-01-20T21:09:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000018s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000427s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000110s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000498s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000121s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000111s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000467s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000113s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005507s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000057s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2016-01-20T21:09:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000017s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000361s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000104s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000284s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000088s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000081s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000427s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000159s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000043s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2016-01-20T21:09:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000478s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000124s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000392s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000133s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000121s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000421s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000098s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2016-01-20T21:10:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000026s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000330s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000073s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000441s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000099s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000066s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000340s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000072s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000046s ]
+
+[ 2016-01-20T21:11:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000210s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000555s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000146s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000584s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000158s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000148s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000581s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000168s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007723s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2016-01-20T21:12:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000558s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000139s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000459s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000116s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000100s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000566s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000122s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000080s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2016-01-20T21:13:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000016s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000410s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `class`
+SQL: SELECT * FROM `class`  [ RunTime:0.000093s ]
+ERR: 1146:Table 'blog.class' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `class` 
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined variable: data_arr /var/www/blog/Home/Controller/IndexController.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000382s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `articles`
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000103s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 35 行.
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000094s ]
+ERR: 1146:Table 'blog.articles' doesn't exist
+ [ SQL语句 ] : SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6  
+NOTIC: [2] Invalid argument supplied for foreach() /var/www/blog/Home/Controller/IndexController.class.php 第 63 行.
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000441s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `friend_link`
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000112s ]
+ERR: 1146:Table 'blog.friend_link' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `friend_link` 
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-01-20T21:29:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000914s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001075s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000305s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000237s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000835s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000237s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-01-20T21:30:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000021s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000808s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000782s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000082s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000069s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000537s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000071s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000050s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2016-01-20T21:31:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000653s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000075s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000893s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000130s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000064s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000659s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000069s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000043s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-01-20T21:31:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000184s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000777s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000937s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000099s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000080s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000751s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000085s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008479s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000044s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-01-20T21:31:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000717s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000087s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000792s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000090s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000108s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000694s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000089s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000049s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2016-01-20T21:31:48+08:00 ] 127.0.0.1 /index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000177s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000767s ]
+SQL: SELECT * FROM `class` WHERE ( name='UEhQ' ) LIMIT 1   [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000849s ]
+SQL: SELECT * FROM `articles` WHERE ( class='UEhQ' ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.000332s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000101s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` WHERE ( class='UEhQ' ) ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000749s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000112s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010181s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000066s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-01-20T21:32:38+08:00 ] 127.0.0.1 /index.php/Home/ChangeClass/index/class/PHP
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000019s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000543s ]
+SQL: SELECT * FROM `class` WHERE ( name='UEhQ' ) LIMIT 1   [ RunTime:0.000076s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000657s ]
+SQL: SELECT * FROM `articles` WHERE ( class='UEhQ' ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.000080s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000069s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` WHERE ( class='UEhQ' ) ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000064s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000561s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000110s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008186s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000066s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000089s ]
+
+[ 2016-01-20T23:25:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000174s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000789s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.006602s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000949s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.006434s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000656s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.012713s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-01-20T23:32:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000169s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000568s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000077s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000616s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000092s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000068s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000583s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000060s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000080s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2016-01-20T23:32:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000623s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000066s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000548s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000119s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000113s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000463s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000134s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000056s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-01-20T23:33:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000630s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000276s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000505s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000060s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000368s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000050s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000052s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000069s ]
+
+[ 2016-01-20T23:33:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000593s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000084s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000702s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000065s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000586s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000066s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000048s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000075s ]
+
+[ 2016-01-20T23:36:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000169s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000512s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000615s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000112s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000520s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000093s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000049s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2016-01-20T23:37:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000168s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000813s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000095s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000844s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000138s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000117s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000745s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000126s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2016-01-20T23:40:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000822s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000118s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000963s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000119s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000086s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000733s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000104s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined index: title /var/www/blog/Runtime/Cache/Home/2f412aae274b751dca883838bf7e7502.php 第 205 行.
+NOTIC: [8] Undefined index: time /var/www/blog/Runtime/Cache/Home/2f412aae274b751dca883838bf7e7502.php 第 208 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-01-20T23:40:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000025s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000655s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000082s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000877s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000098s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000082s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000641s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000081s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000060s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2016-01-20T23:40:49+08:00 ] 127.0.0.1 /index.php/Home/ShowArticle/index/from/index/id/12
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000867s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000639s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000796s ]
+SQL: SELECT * FROM `articles` WHERE ( id=12 ) LIMIT 1   [ RunTime:0.000307s ]
+SQL: UPDATE `articles` SET `read_sum`=3 WHERE ( `id` = 12 ) [ RunTime:0.017672s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000358s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000074s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+
+[ 2016-01-20T23:45:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000772s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000166s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001167s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000311s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000248s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000790s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000108s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-01-20T23:46:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000730s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000096s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000826s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000102s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000083s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000681s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000087s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000089s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2016-01-20T23:48:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000936s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000126s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000951s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000157s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000130s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000790s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000102s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2016-01-20T23:48:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.001023s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000126s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000919s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000112s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000093s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000632s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000096s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000354s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013809s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000121s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-01-20T23:49:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000866s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000112s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000944s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000122s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000095s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000804s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000122s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014233s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000072s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-01-20T23:50:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000810s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000744s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000109s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000858s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000160s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-01-20T23:51:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000814s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000105s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000884s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000118s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000140s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000826s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000095s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-01-20T23:52:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.001006s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000103s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001121s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000142s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000114s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000774s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000102s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010731s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000148s ]
+
+[ 2016-01-20T23:53:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000759s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000118s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000812s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000161s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.001006s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000169s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-01-20T23:53:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000772s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000099s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000831s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000103s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000732s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000146s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-01-20T23:53:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.001220s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000985s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000105s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000095s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000745s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000105s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000083s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-01-20T23:53:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000171s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000856s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000107s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000905s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000127s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000764s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000102s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-01-20T23:54:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000746s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000155s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000827s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000107s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000751s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000088s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000060s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2016-01-20T23:54:39+08:00 ] 127.0.0.1 /index.php/Home/ShowArticle/index/from/index/id/12
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000732s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000099s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000659s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000135s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000842s ]
+SQL: SELECT * FROM `articles` WHERE ( id=12 ) LIMIT 1   [ RunTime:0.000316s ]
+SQL: UPDATE `articles` SET `read_sum`=4 WHERE ( `id` = 12 ) [ RunTime:0.000288s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` WHERE ( class='5pWw5o2u57uT5p6E5LiO566X5rOV' ) ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000302s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-01-20T23:57:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000844s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000101s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.000878s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000310s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.000766s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000104s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-01-20T23:57:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000201s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/blog/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.000754s ]
+SQL: SELECT * FROM `class`  [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `articles` [ RunTime:0.001200s ]
+SQL: SELECT * FROM `articles` ORDER BY id desc LIMIT 0,5   [ RunTime:0.000122s ]
+SQL: SELECT `id`,`title`,`read_sum` FROM `articles` ORDER BY read_sum desc LIMIT 6   [ RunTime:0.000112s ]
+SQL: SHOW COLUMNS FROM `friend_link` [ RunTime:0.001016s ]
+SQL: SELECT * FROM `friend_link`  [ RunTime:0.000130s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+

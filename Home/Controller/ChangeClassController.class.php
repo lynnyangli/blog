@@ -28,7 +28,9 @@ class ChangeClassController extends Controller{
                 foreach ($data as $key => $value) {
                         $data[$key]['title']=base64_decode($value['title']);
                         $data[$key]['class']=base64_decode($value['class']);
+			$data[$key]['C']= mb_substr($data[$key]['class'],0,1,"utf-8");
                         $data[$key]['time']=date('Y-m-d',$value['time']);
+			$data[$key]['T_time']=date('m-d',$value['time']);
                         $data[$key]["description"] = base64_decode($value['description']);
                 }
                 return $data;

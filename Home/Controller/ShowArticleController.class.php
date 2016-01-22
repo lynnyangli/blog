@@ -9,9 +9,8 @@ class ShowArticleController extends Controller{
         $class = $this->get_class();
         $this->assign("CLASS",$class);
         $this->assign("LINK_DATA",$this->get_link_data());
-        $id = I("get.id");
-        
-        
+       
+	$id = I("get.id");
         $data = $this->get_article_data($id);
         $this->assign("READ_RANK",$this->get_read_rank($data['class']));
         $this->assign("DATA",$data);
