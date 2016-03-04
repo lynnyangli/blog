@@ -45,7 +45,7 @@
 
                       <div class="friend-link">
                           <ul class="list-unstyled">
-                                <?php if(is_array($LINK_DATA)): foreach($LINK_DATA as $key=>$vo): ?><li><span class="glyphicon glyphicon-link" aria-hidden="true">&nbsp;<a href="<?php echo ($vo["link"]); ?>"><?php echo ($vo["name"]); ?></a></li><?php endforeach; endif; ?>
+                                <?php if(is_array($LINK_DATA)): foreach($LINK_DATA as $key=>$vo): ?><li><span class="glyphicon glyphicon-link" aria-hidden="true">&nbsp;<a href="<?php echo ($vo["link"]); ?>" target="_blank"><?php echo ($vo["name"]); ?></a></li><?php endforeach; endif; ?>
                           </ul>
                   </div>
 

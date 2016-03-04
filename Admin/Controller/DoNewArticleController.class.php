@@ -20,7 +20,7 @@ class DoNewArticleController extends Controller {
             $article['description'] = base64_encode($_POST['description']);
             $article['time'] = time();
             $addr = C('ARTICLE_PATH').'/'.base64_encode($article['name']).time().".xml";
-            $fp = fopen($addr, "w");
+	    $fp = fopen($addr, "w");
             if(!$fp)
             {
                 $this->error('文件创建失败');

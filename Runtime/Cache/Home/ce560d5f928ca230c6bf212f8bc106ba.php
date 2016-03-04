@@ -7,7 +7,6 @@
     <title><?php echo ($DATA["title"]); ?></title>
     <link href="<?php echo ($PUBLIC_PATH); ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo ($PUBLIC_PATH); ?>/css/show_article.css" rel="stylesheet">
-	
 	<script src="/Admin/public/ueditor1/ueditor.parse.js"></script>
  	<script type="text/javascript">
  		uParse("#content-main",{
@@ -80,8 +79,6 @@
                                </ul>
                       </div>
                     </div>
-
-
               </div>
           </div>
       </div>
