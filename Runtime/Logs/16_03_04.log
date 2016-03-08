@@ -2,3 +2,11 @@
 ERR: 1054:Unknown column 'UEhQ' in 'where clause'
  [ SQL语句 ] : SELECT `id` FROM `class` WHERE ( name=UEhQ ) LIMIT 1  
 
+[ 2016-03-04T18:17:47+08:00 ] 58.20.192.215 /index.php/Home/ShowArticle/index/id/14%E2%80%98
+ERR: 1054:Unknown column '14‘' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `articles` WHERE ( id=14‘ ) LIMIT 1  
+
+[ 2016-03-04T22:03:12+08:00 ] 58.20.192.215 /index.php/Admin/DoNewArticle/
+ERR: 1054:Unknown column 'UEhQ' in 'where clause'
+ [ SQL语句 ] : SELECT `id` FROM `class` WHERE ( name=UEhQ ) LIMIT 1  
+
