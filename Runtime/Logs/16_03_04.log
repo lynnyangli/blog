@@ -1,4 +1,0 @@
-[ 2016-03-04T14:54:28+08:00 ] 58.20.192.215 /index.php/Admin/DoNewArticle/
-ERR: 1054:Unknown column 'UEhQ' in 'where clause'
- [ SQL语句 ] : SELECT `id` FROM `class` WHERE ( name=UEhQ ) LIMIT 1  
-

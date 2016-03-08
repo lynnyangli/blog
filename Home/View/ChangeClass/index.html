@@ -28,37 +28,8 @@
       </nav>
       <div class="container">
           <div class="row">
-              <div  id="main-content-left" class="col-md-3 ">
-                  <div class="master-info">
-                        <img class="master-img"src="{$PUBLIC_PATH}/img/head_log.jpg">
-                        <p class="text-center master-name"><a href="#">l不要y</a></p>
-                        <p class="text-center master-email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>:1083709608@qq.com</p>
-                        <p class="text-center master-email"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>:<a href="">github.com/liyang</a></p>
-                        <div>
-                              <h3 class="master-sum">333<br><small>文章数</small></h3>
-                              <h3 class="master-read">444<br><small>阅读量</small></h3>
-                        </div>
 
-                        <div class="max-list">
-                          <ul class="list-unstyled ">
-                              <foreach name="READ_RANK" item="vo">
-                                  <li class="max-list-col"><span class="max-list-ico"></span><a class="max-list-a" href="__APP__/Home/ShowArticle/index/id/{$vo.id}">{$vo.title}</a>&nbsp;&nbsp;&nbsp;<span class="badge">{$vo.read_sum}</span></li>
-                              </foreach>
-                        </ul>
-                      </div>
-
-                      <div class="friend-link">
-                          <ul class="list-unstyled">
-                                <foreach name="LINK_DATA" item="vo">
-                                    <li><span class="glyphicon glyphicon-link" aria-hidden="true">&nbsp;<a href="{$vo.link}">{$vo.name}</a></li>
-                                </foreach>
-                          </ul>
-                  </div>
-
-                  </div>
-                 
-              </div>
-              <div id="main-content-right" class="col-md-8  col-md-offset-1">
+              <div id="main-content-right" class="col-md-8  col-md-offset-1" style="background-color:#{$vo.color};">
 			
                 <foreach name="ARTICLES" item="vo">
                   <div class="content">
@@ -88,8 +59,48 @@
 		</foreach>
 
               </div>
+
+              <div  id="main-content-left" class="col-md-3 ">
+                  <div class="master-info">
+                      <img class="master-img"src="{$PUBLIC_PATH}/img/head_log.jpg">
+                      <p class="text-center master-name"><a href="#">l不要y</a></p>
+                      <p class="text-center master-email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>:1083709608@qq.com</p>
+                      <p class="text-center master-email"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>:<a href="https://github.com/liyang-ly/" target="_blank">github.com/liyang</a></p>
+                      <div>
+                          <h3 class="master-sum">{$ARTICLES_SUM}<br><small>文章数</small></h3>
+                          <h3 class="master-read">{$READ_SUM}<br><small>阅读量</small></h3>
+                      </div>
+
+                      <div class="max-list">
+                          <ul class="list-unstyled ">
+                              <foreach name="READ_RANK" item="vo">
+                                  <li class="max-list-col"><span class="max-list-ico"></span><a class="max-list-a" href="__APP__/Home/ShowArticle/index/id/{$vo.id}">{$vo.title}</a>&nbsp;&nbsp;&nbsp;<span class="badge">{$vo.read_sum}</span></li>
+                              </foreach>
+                          </ul>
+                      </div>
+
+                      <div class="friend-link">
+                          <ul class="list-unstyled">
+                              <foreach name="LINK_DATA" item="vo">
+                                  <li><span class="glyphicon glyphicon-link" aria-hidden="true">&nbsp;<a href="{$vo.link}">{$vo.name}</a></li>
+                              </foreach>
+                          </ul>
+                      </div>
+
+                  </div>
+
+              </div>
+          </div>
+          <!--加载行-->
+          <div class="row">
+              <div class="col-md-1 col-md-offset-4">
+                  <button type="button" class="btn  btn-warning" onclick="getMore('{$CLASS}');return false;">
+                      &nbsp;&nbsp;&nbsp;更多&nbsp;&nbsp;&nbsp;
+                  </button>
+              </div>
           </div>
       </div>
+      <script src="{$PUBLIC_PATH}/Javascript/GetMore.js"></script>
     <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
     <script src="{$PUBLIC_PATH}/bootstrap/js/bootstrap.min.js"></script>
   </body>
