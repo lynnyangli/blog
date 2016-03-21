@@ -1,5 +1,5 @@
-Conf/*
+**/Conf/*
 /Admin/public/article/*
 /Admin/public/upload/*
-Runtime/*
+**/Runtime/*
 /school/
