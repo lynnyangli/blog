@@ -1,0 +1,5 @@
+Conf/*
+/var/www/blog/Admin/public/article/*
+/var/www/blog/Admin/public/upload/*
+Runtime/*
+/var/www/blog/school/

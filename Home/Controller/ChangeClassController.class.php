@@ -5,8 +5,8 @@ class ChangeClassController extends Controller{
     function index()
     {
         $class = I("get.class");
-	$class_title = $this->getClassTitle($class);
-	$this->assign("CLASS_TITLE",$class_title);
+	    $class_title = $this->getClassTitle($class);
+	    $this->assign("CLASS_TITLE",$class_title);
         $this->assign("CLASS",$class);
         $class = base64_encode($class);
         $data = $this->get_article_data($class, 1);
@@ -14,7 +14,9 @@ class ChangeClassController extends Controller{
         $this->assign("ARTICLES",$data);
         $this->assign("CLASS_LIST",$this->get_Class());
         $this->assign("READ_RANK",$this->get_read_rank($class));
-	$this->assign("LINK_DATA",$this->get_link_data());
+	    $this->assign("LINK_DATA",$this->get_link_data());
+        $this->assign("ARTICLES_SUM",$this->get_articles_sum($class));
+        $this->assign("READ_SUM",$this->get_read_sum($class));
         $this->display();
     }
     private function get_article_data($class,$page)
@@ -26,6 +28,7 @@ class ChangeClassController extends Controller{
                 }
                 $data=$articles_db->page($page,5)->where("class='$class'")->order('id desc')->select();
                 foreach ($data as $key => $value) {
+                    $data[$key]["color"] = session('class_color')[$value['class']];
                         $data[$key]['title']=base64_decode($value['title']);
                         $data[$key]['class']=base64_decode($value['class']);
 			$data[$key]['C']= mb_substr($data[$key]['class'],0,1,"utf-8");
@@ -81,30 +84,28 @@ class ChangeClassController extends Controller{
         }
         return $data;
     }
-    public function getMore()
+
+    private function get_articles_sum($class)
     {
-        $class = I("get.class");
-        $page = I("get.page");
-        $str = '';
-        $data = $this->get_article_data($class,$page);
-        foreach($data as $key=>$val){
-            $tltle = $val['title'];
-            $time = $val['time'];
-            $description = $val['description'];
-            $str = $str.'<div class="doment" >
-                    <div class="doment-head">
-                        <a><h3>'.$val['title'].'<small>&emsp;'.$val['time'].'</small></h3></a>
-                    </div>
-                    <div class="domemt-body">
-                        <p>&emsp;&emsp;'.$val['description'].'</p>
-                        <div class="doment-bottom">
-                            <span class="glyphicon glyphicon-search" aria-hidden="true">阅读15</span>&emsp;
-                            <span class="gglyphicon glyphicon-pencil" aria-hidden="true">评论15</span>&emsp;
-                        </div>
-                     </div>
-                </div>';
+        $articles_db=D("articles");
+        if($articles_db==null)
+        {
+            return false;
+        }else{
+            return $articles_db->where("class='$class'")->count();
         }
-        echo $str;
     }
+    private function get_read_sum($class)
+    {
+        $sum = 0;
+        $articles_db=D("articles");
+        if($articles_db==null)
+        {
+            return false;
+        }else{
+            return $articles_db->where("class='$class'")->sum('read_sum');
+        }
+    }
+
 }
 

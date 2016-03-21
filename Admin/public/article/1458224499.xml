@@ -1,0 +1,74 @@
+<p><span style="font-size: 18px;">还记的Traverable接口吧，用来支持对象使用foreach遍历的接口，可是它却很傲娇的没有任何的方法，还不给大家在脚本里使用，那我们遍历一个类怎么办？</span></p><p><br/></p><p>这就是Iterator，一个非常合理的接口，先看一下它的定义：</p><pre class="brush:php;toolbar:false">Iterator&nbsp;extends&nbsp;Traversable&nbsp;{
+/*&nbsp;方法&nbsp;*/
+abstract&nbsp;public&nbsp;mixed&nbsp;current&nbsp;(&nbsp;void&nbsp;)
+abstract&nbsp;public&nbsp;scalar&nbsp;key&nbsp;(&nbsp;void&nbsp;)
+abstract&nbsp;public&nbsp;void&nbsp;next&nbsp;(&nbsp;void&nbsp;)
+abstract&nbsp;public&nbsp;void&nbsp;rewind&nbsp;(&nbsp;void&nbsp;)
+abstract&nbsp;public&nbsp;boolean&nbsp;valid&nbsp;(&nbsp;void&nbsp;)
+}</pre><p>看到那个Traversable了吧，这哥们终于出现了；Iterator继承了这个Traversable，所以实现了Iterator接口的类，就可以用来遍历了；<br/></p><p>为神马会觉得这个接口很合理，Iterator虽然可以使用foreach遍历了，可遍历的时候怎么处理那？看一下它的一个简单实现：</p><pre class="brush:php;toolbar:false">&lt;?php
+class&nbsp;myIterator&nbsp;implements&nbsp;Iterator{
+	private&nbsp;$offset;
+	private&nbsp;$data&nbsp;=&nbsp;array(
+		&#39;one&#39;,
+		&#39;two&#39;,
+		&#39;three&#39;,
+	);
+	public&nbsp;function&nbsp;__construct()
+	{
+		$this-&gt;offset&nbsp;=&nbsp;0;
+	}
+	//返回到迭代器的第一个元素
+	public&nbsp;function&nbsp;rewind()
+	{
+		echo&nbsp;__FUNCTION__,PHP_EOL;
+		$this-&gt;offset&nbsp;=&nbsp;0;
+	}
+	//返回当前元素
+	public&nbsp;function&nbsp;current()
+	{
+		echo&nbsp;__FUNCTION__,PHP_EOL;
+		return&nbsp;$this-&gt;data[$this-&gt;offset];
+	}
+	//返回当前元素的键
+	public&nbsp;function&nbsp;key()
+	{
+		echo&nbsp;__FUNCTION__,PHP_EOL;
+		return&nbsp;$this-&gt;offset;
+	}
+	//向前移动一个元素
+	public&nbsp;function&nbsp;next()
+	{
+		echo&nbsp;__FUNCTION__,PHP_EOL;
+		$this-&gt;offset++;
+	}
+	//检查当前元素是否有效
+	public&nbsp;function&nbsp;valid()
+	{
+		echo&nbsp;__FUNCTION__,PHP_EOL;
+		return&nbsp;isset($this-&gt;data[$this-&gt;offset]);
+	}
+}
+
+$iter&nbsp;=&nbsp;new&nbsp;myIterator();
+foreach($iter&nbsp;as&nbsp;$key=&gt;$val){
+	var_dump($key,&nbsp;$val);
+}</pre><p>看一下他的结果：</p><pre class="brush:html;toolbar:false">rewind&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//每次遍历的时候都会先调用rewind，让我们自己做回到头处理
+valid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//访问一个变量前判断一下是否存在，很合理吧
+current&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//存在那就取值，合理+1
+key&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//要使用一下key，所以那就调用key（），合理+1
+int(0)
+string(3)&nbsp;&quot;one&quot;
+next&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//第一个遍历过了，那就指向下一个，很合理吧&nbsp;&nbsp;&nbsp;&nbsp;，就下来就重复这些步骤
+valid
+current
+key
+int(1)
+string(3)&nbsp;&quot;two&quot;
+next
+valid
+current
+key
+int(2)
+string(5)&nbsp;&quot;three&quot;
+next
+valid</pre><p>可以看出Itera是个灰常强大而合理的接口，在很多地方都会用到<br/></p>

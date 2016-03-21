@@ -1,0 +1,135 @@
+<p>拉链法解决哈希冲突，实现哈希的CURD操作，C++实现：</p><pre class="brush:cpp;toolbar:false">#include&lt;iostream&gt;
+using&nbsp;namespace&nbsp;std;
+
+#define&nbsp;KeyType&nbsp;int
+#define&nbsp;SIZE&nbsp;10
+//数据容器&nbsp;
+typedef&nbsp;struct&nbsp;_Node{
+	KeyType&nbsp;key;
+	struct&nbsp;_Node&nbsp;*next;	
+}Node;
+
+//哈希表&nbsp;
+typedef&nbsp;struct&nbsp;_HashTable{
+	int&nbsp;size;
+	Node&nbsp;*node[SIZE];
+}HashTable;
+
+//哈希函数&nbsp;
+int&nbsp;Hash(KeyType&nbsp;key)
+{
+	return&nbsp;key%SIZE;	
+}&nbsp;
+//&nbsp;初始化哈希表
+int&nbsp;initHashTbale(HashTable&nbsp;*ht)
+{
+	int&nbsp;i&nbsp;=&nbsp;0;
+	ht-&gt;size&nbsp;=&nbsp;0;
+	for(i=0;&nbsp;i&lt;SIZE;&nbsp;i++){
+		ht-&gt;node[i]&nbsp;=&nbsp;NULL;
+	}	
+}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+//&nbsp;根据key查找内容&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+int&nbsp;Search(HashTable&nbsp;*ht,&nbsp;&nbsp;KeyType&nbsp;key,&nbsp;Node&nbsp;**q)&nbsp;&nbsp;
+{
+	if(ht&nbsp;==&nbsp;NULL){
+		return&nbsp;0;
+	}
+	int&nbsp;addr;
+	Node&nbsp;*p;
+	addr&nbsp;=&nbsp;Hash(key);
+	p&nbsp;=&nbsp;ht-&gt;node[addr];
+	if(p-&gt;key&nbsp;==&nbsp;key){
+		*q&nbsp;=&nbsp;p;
+		return&nbsp;2;
+	}
+	while(p-&gt;next){
+		if(p-&gt;next-&gt;key&nbsp;==&nbsp;key){
+			*q&nbsp;=&nbsp;p;
+			return&nbsp;1;
+		}else{
+			p&nbsp;=&nbsp;p-&gt;next;
+		}
+	}
+	return&nbsp;0;
+	
+}
+//&nbsp;将内容插入到哈希表中
+void&nbsp;insertHashTable(HashTable&nbsp;*ht,&nbsp;KeyType&nbsp;k)
+{
+	int&nbsp;addr;
+	//计算哈希地址&nbsp;
+	addr&nbsp;=&nbsp;Hash(k);
+	Node&nbsp;*p,*q;
+	p&nbsp;=&nbsp;new&nbsp;Node;
+	p-&gt;key&nbsp;=&nbsp;k;
+	p-&gt;next&nbsp;=&nbsp;NULL;
+	
+	if(ht-&gt;node[addr]&nbsp;==&nbsp;NULL){
+		ht-&gt;node[addr]&nbsp;=&nbsp;p;
+		ht-&gt;size++;&nbsp;
+	}else{
+		//发生冲突，节点加到尾部&nbsp;
+		q&nbsp;=&nbsp;ht-&gt;node[addr];
+		while(q-&gt;next){
+			q&nbsp;=&nbsp;q-&gt;next;
+		}
+		q-&gt;next&nbsp;=&nbsp;p;
+		ht-&gt;size++;
+	}
+	
+}
+//删除节点
+void&nbsp;Delete(HashTable&nbsp;*ht,&nbsp;KeyType&nbsp;key)
+{
+	Node&nbsp;*p,*t;
+	int&nbsp;type;
+	type&nbsp;=&nbsp;Search(ht,&nbsp;key,&nbsp;&amp;p);
+	cout&lt;&lt;&quot;tyep&nbsp;=&nbsp;&quot;&lt;&lt;type&lt;&lt;endl;
+	if(type&nbsp;==&nbsp;2){
+		ht-&gt;node[Hash(key)]&nbsp;=&nbsp;NULL;
+	}else&nbsp;if(type&nbsp;==&nbsp;1){
+		t&nbsp;=&nbsp;p;
+		p-&gt;next&nbsp;=&nbsp;p-&gt;next-&gt;next;
+		delete&nbsp;t;
+	}
+		
+}&nbsp;
+//打印哈希表&nbsp;
+void&nbsp;printHashTable(HashTable&nbsp;*ht)
+{
+	int&nbsp;i;
+	Node&nbsp;*p;
+	for(i=0;&nbsp;i&lt;SIZE;&nbsp;i++){
+		cout&lt;&lt;i&lt;&lt;&#39;:&#39;;
+		p&nbsp;=&nbsp;ht-&gt;node[i];
+		while(p){
+			cout&lt;&lt;p-&gt;key;
+			p&nbsp;=&nbsp;p-&gt;next;
+			cout&lt;&lt;&#39;&nbsp;&#39;;
+		}
+		cout&lt;&lt;endl;
+	}
+}&nbsp;&nbsp;&nbsp;&nbsp;
+
+int&nbsp;main()
+{
+	HashTable&nbsp;HT;
+	Node&nbsp;*p;
+	
+	initHashTbale(&amp;HT);
+	insertHashTable(&amp;HT,&nbsp;1);
+	insertHashTable(&amp;HT,&nbsp;11);
+	insertHashTable(&amp;HT,&nbsp;111);
+	insertHashTable(&amp;HT,&nbsp;2);
+	insertHashTable(&amp;HT,&nbsp;22);
+	Delete(&amp;HT,&nbsp;22);
+	printHashTable(&amp;HT);
+	if(Search(&amp;HT,&nbsp;11,&nbsp;&amp;p)){
+		cout&lt;&lt;&quot;search&nbsp;success&nbsp;key&nbsp;=&nbsp;&quot;&lt;&lt;p-&gt;next-&gt;key&lt;&lt;endl;
+	}else{
+		cout&lt;&lt;&quot;searech&nbsp;false&quot;&lt;&lt;endl;
+	}
+	return&nbsp;0;
+		
+}</pre><p><br/></p>

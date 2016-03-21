@@ -1,0 +1,173 @@
+<p>单链表一些常见面试题（只是常见不全面）：</p><p>1、求链表节点数目</p><p>2、链表逆转</p><p>3、查找倒数第k个节点</p><p>4、求中间节点</p><p>5、从头到尾打印链表</p><p>6、判断是否有环</p><p>7、删除一个节点，时间复杂度为n(1)</p><pre class="brush:cpp;toolbar:false">#include&lt;iostream&gt;
+#include&nbsp;&quot;LinkList.h&quot;
+
+//求链表节点数目&nbsp;
+int&nbsp;sumLinkList(LinkList&nbsp;*ll)
+{
+	int&nbsp;i&nbsp;=&nbsp;0;
+	Node&nbsp;*p;
+	p&nbsp;=&nbsp;*ll;
+	while(p){
+		i++;
+		p&nbsp;=&nbsp;p-&gt;next;
+	}
+	return&nbsp;i;
+}
+//链表逆转
+void&nbsp;ReverseList(LinkList&nbsp;*ll)
+{
+	Node&nbsp;*p,&nbsp;*t;
+	p&nbsp;=&nbsp;*ll;
+	if(p&nbsp;==&nbsp;NULL&nbsp;||&nbsp;p-&gt;next&nbsp;==&nbsp;NULL){
+		return;	
+	}else{
+		p&nbsp;=&nbsp;p-&gt;next;
+		(*ll)-&gt;next&nbsp;=&nbsp;NULL;
+		while(p){
+			t&nbsp;=&nbsp;p;
+			p&nbsp;=&nbsp;p-&gt;next;
+			t-&gt;next&nbsp;=&nbsp;*ll;
+			*ll&nbsp;=&nbsp;t;
+		}
+	}	
+}
+//查找倒数第k个节点
+Node&nbsp;*GetKNode(LinkList&nbsp;*ll,&nbsp;int&nbsp;k)
+{
+	int&nbsp;i&nbsp;=&nbsp;0;
+	Node&nbsp;*f,&nbsp;*l;
+	f&nbsp;=&nbsp;l&nbsp;=&nbsp;*ll;
+	k--;
+	for(i&nbsp;=&nbsp;0;&nbsp;i&lt;k;&nbsp;i++){
+		if(f&nbsp;==&nbsp;NULL){
+			return&nbsp;NULL;
+		}
+		f&nbsp;=&nbsp;f-&gt;next;
+	}
+	while(f-&gt;next){
+		f&nbsp;=&nbsp;f-&gt;next;
+		l&nbsp;=&nbsp;l-&gt;next;
+	}
+	return&nbsp;l;	
+}
+//求中间节点
+Node&nbsp;*GetMiddleNode(LinkList&nbsp;*ll)
+{
+	Node&nbsp;*l,&nbsp;*f;
+	l&nbsp;=&nbsp;f&nbsp;=&nbsp;*ll;
+	if(*ll&nbsp;==&nbsp;NULL&nbsp;||&nbsp;(*ll)-&gt;next&nbsp;==&nbsp;NULL){
+		return&nbsp;*ll;
+	}
+	while(f-&gt;next&nbsp;!=&nbsp;NULL){
+		l&nbsp;=&nbsp;l-&gt;next;
+		f&nbsp;=&nbsp;f-&gt;next;
+		if(f-&gt;next&nbsp;!=&nbsp;NULL){
+			f&nbsp;=&nbsp;f-&gt;next;
+		}
+	}
+	return&nbsp;l;
+}
+//从头到尾打印链表
+void&nbsp;printRLinkList(LinkList&nbsp;ll)
+{
+	if(ll&nbsp;==&nbsp;NULL){
+		return;
+	}else{
+		printRLinkList(ll-&gt;next);
+		cout&lt;&lt;ll-&gt;data&lt;&lt;endl;
+	}	
+}
+//判断是否有环
+bool&nbsp;isRing(LinkList&nbsp;*ll)
+{
+	Node&nbsp;*f,&nbsp;*l;
+	f&nbsp;=&nbsp;l&nbsp;=&nbsp;*ll;
+	while(l-&gt;next!=NULL&nbsp;&amp;&amp;&nbsp;f-&gt;next!=NULL){
+		l&nbsp;=&nbsp;l-&gt;next;
+		f&nbsp;=&nbsp;f-&gt;next-&gt;next;
+		if(l&nbsp;==&nbsp;f){
+			return&nbsp;true;
+		}
+	}
+	return&nbsp;false;	
+}
+
+//删除一个节点，时间复杂度为n(1)
+void&nbsp;deleteNodeOne(LinkList&nbsp;*ll,&nbsp;Node&nbsp;*p)
+{
+	if(ll&nbsp;==&nbsp;NULL&nbsp;||&nbsp;*ll&nbsp;==&nbsp;NULL){
+		return;
+	}
+	Node&nbsp;*t;
+	if(p-&gt;next&nbsp;!=&nbsp;NULL){	//不为尾节点&nbsp;
+		p-&gt;data&nbsp;=&nbsp;p-&gt;next-&gt;data;
+		t&nbsp;=&nbsp;p-&gt;next;
+		p-&gt;next&nbsp;=&nbsp;p-&gt;next-&gt;next;
+		delete&nbsp;t;&nbsp;
+	}else{
+		t&nbsp;=&nbsp;*ll;
+		while(t-&gt;next&nbsp;!=&nbsp;p){
+			t&nbsp;=&nbsp;t-&gt;next;
+		}
+		t-&gt;next&nbsp;=&nbsp;NULL;
+		delete&nbsp;p;
+	}
+	&nbsp;
+}&nbsp;
+
+//返回尾节点
+Node*&nbsp;getTailNode(LinkList&nbsp;*ll)
+{
+	if(*ll&nbsp;==&nbsp;NULL){
+		return&nbsp;NULL;
+	}
+	Node&nbsp;*p;
+	p&nbsp;=&nbsp;*ll;
+	while(p-&gt;next&nbsp;!=&nbsp;NULL){
+		p&nbsp;=&nbsp;p-&gt;next;
+	}
+	return&nbsp;p;	
+}&nbsp;&nbsp;
+int&nbsp;main()
+{
+	int&nbsp;i&nbsp;=&nbsp;0;
+	LinkList&nbsp;lk;
+	Node&nbsp;*p;
+	
+	InitLinkList(&amp;lk);
+	for(i&nbsp;=&nbsp;0;&nbsp;i&lt;5;&nbsp;i++){
+		addNodeTail(&amp;lk,&nbsp;i+1);
+	}
+	printLinkList(&amp;lk);
+	
+	cout&lt;&lt;&quot;共有&nbsp;&quot;&lt;&lt;sumLinkList(&amp;lk)&lt;&lt;&quot;个节点&quot;&lt;&lt;endl;
+	int&nbsp;k&nbsp;=2;
+	if(GetKNode(&amp;lk&nbsp;,&nbsp;k)){
+		cout&lt;&lt;&quot;倒数&quot;&lt;&lt;k&lt;&lt;&quot;个节点为&nbsp;：&quot;&lt;&lt;GetKNode(&amp;lk,&nbsp;k)-&gt;data&lt;&lt;endl;
+	}
+	p&nbsp;=&nbsp;GetMiddleNode(&amp;lk);
+	if(p&nbsp;!=&nbsp;NULL){
+		cout&lt;&lt;&quot;中间节点为&nbsp;:&nbsp;&quot;&lt;&lt;p-&gt;data&lt;&lt;endl;	
+	}else{
+		cout&lt;&lt;&quot;xxxxxxxx&quot;&lt;&lt;endl;
+	}
+	
+	//删除中间节点
+	deleteNodeOne(&amp;lk,&nbsp;p);
+	
+//	ReverseList(&amp;lk);
+//	printLinkList(&amp;lk);
+//	cout&lt;&lt;&quot;逆序输出&quot;&lt;&lt;endl;
+//	printRLinkList(lk);
+	
+	//制造环
+//	p&nbsp;=&nbsp;getTailNode(&amp;lk);
+//	if(p&nbsp;!=&nbsp;NULL){
+//		p-&gt;next&nbsp;=&nbsp;lk;
+//	}
+//	if(isRing(&amp;lk)){
+//		cout&lt;&lt;&quot;存在环&quot;&lt;&lt;endl;;
+//	}&nbsp;
+	
+	return&nbsp;0;
+}</pre><p><br/></p>

@@ -25,33 +25,8 @@
       </nav>
       <div class="container">
           <div class="row">
-              <div  id="main-content-left" class="col-md-3 ">
-                  <div class="master-info">
-                        <img class="master-img"src="<?php echo ($PUBLIC_PATH); ?>/img/head_log.jpg">
-                        <p class="text-center master-name"><a href="#">l不要y</a></p>
-                        <p class="text-center master-email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>:1083709608@qq.com</p>
-                        <p class="text-center master-email"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>:<a href="">github.com/liyang</a></p>
-                        <div>
-                              <h3 class="master-sum">333<br><small>文章数</small></h3>
-                              <h3 class="master-read">444<br><small>阅读量</small></h3>
-                        </div>
 
-                        <div class="max-list">
-                          <ul class="list-unstyled ">
-                              <?php if(is_array($READ_RANK)): foreach($READ_RANK as $key=>$vo): ?><li class="max-list-col"><span class="max-list-ico"></span><a class="max-list-a" href="/index.php/Home/ShowArticle/index/id/<?php echo ($vo["id"]); ?>"><?php echo ($vo["title"]); ?></a>&nbsp;&nbsp;&nbsp;<span class="badge"><?php echo ($vo["read_sum"]); ?></span></li><?php endforeach; endif; ?>
-                        </ul>
-                      </div>
-
-                      <div class="friend-link">
-                          <ul class="list-unstyled">
-                                <?php if(is_array($LINK_DATA)): foreach($LINK_DATA as $key=>$vo): ?><li><span class="glyphicon glyphicon-link" aria-hidden="true">&nbsp;<a href="<?php echo ($vo["link"]); ?>"><?php echo ($vo["name"]); ?></a></li><?php endforeach; endif; ?>
-                          </ul>
-                  </div>
-
-                  </div>
-                 
-              </div>
-              <div id="main-content-right" class="col-md-8  col-md-offset-1">
+              <div id="main-content-right" class="col-md-8  col-md-offset-1" style="background-color:#<?php echo ($vo["color"]); ?>;">
 			
                 <?php if(is_array($ARTICLES)): foreach($ARTICLES as $key=>$vo): ?><div class="content">
                         <div class="content-top" style="background-color:#<?php echo ($vo["color"]); ?>;">
@@ -79,8 +54,44 @@
                     </div><?php endforeach; endif; ?>
 
               </div>
+
+              <div  id="main-content-left" class="col-md-3 ">
+                  <div class="master-info">
+                      <img class="master-img"src="<?php echo ($PUBLIC_PATH); ?>/img/head_log.jpg">
+                      <p class="text-center master-name"><a href="#">l不要y</a></p>
+                      <p class="text-center master-email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>:1083709608@qq.com</p>
+                      <p class="text-center master-email"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>:<a href="https://github.com/liyang-ly/" target="_blank">github.com/liyang</a></p>
+                      <div>
+                          <h3 class="master-sum"><?php echo ($ARTICLES_SUM); ?><br><small>文章数</small></h3>
+                          <h3 class="master-read"><?php echo ($READ_SUM); ?><br><small>阅读量</small></h3>
+                      </div>
+
+                      <div class="max-list">
+                          <ul class="list-unstyled ">
+                              <?php if(is_array($READ_RANK)): foreach($READ_RANK as $key=>$vo): ?><li class="max-list-col"><span class="max-list-ico"></span><a class="max-list-a" href="/index.php/Home/ShowArticle/index/id/<?php echo ($vo["id"]); ?>"><?php echo ($vo["title"]); ?></a>&nbsp;&nbsp;&nbsp;<span class="badge"><?php echo ($vo["read_sum"]); ?></span></li><?php endforeach; endif; ?>
+                          </ul>
+                      </div>
+
+                      <div class="friend-link">
+                          <ul class="list-unstyled">
+                              <?php if(is_array($LINK_DATA)): foreach($LINK_DATA as $key=>$vo): ?><li><span class="glyphicon glyphicon-link" aria-hidden="true">&nbsp;<a href="<?php echo ($vo["link"]); ?>"><?php echo ($vo["name"]); ?></a></li><?php endforeach; endif; ?>
+                          </ul>
+                      </div>
+
+                  </div>
+
+              </div>
+          </div>
+          <!--加载行-->
+          <div class="row">
+              <div class="col-md-1 col-md-offset-4">
+                  <button type="button" class="btn  btn-warning" onclick="getMore('<?php echo ($CLASS); ?>');return false;">
+                      &nbsp;&nbsp;&nbsp;更多&nbsp;&nbsp;&nbsp;
+                  </button>
+              </div>
           </div>
       </div>
+      <script src="<?php echo ($PUBLIC_PATH); ?>/Javascript/GetMore.js"></script>
     <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
     <script src="<?php echo ($PUBLIC_PATH); ?>/bootstrap/js/bootstrap.min.js"></script>
   </body>

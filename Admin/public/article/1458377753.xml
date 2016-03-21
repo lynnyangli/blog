@@ -1,0 +1,178 @@
+<p>在这里实现单链表的基本操作：</p><p>1、在链表头进行插入&nbsp;</p><p>2、添加节点到尾节点&nbsp;</p><p>3、在第i个节点后插入节点</p><p>4、放回值尾e的节点的上一个节点&nbsp;</p><p>5、删除第i个节点&nbsp;</p><p>6、删除值为e的节点</p><p>7、打印单链表</p><pre class="brush:cpp;toolbar:false">#include&lt;iostream&gt;
+using&nbsp;namespace&nbsp;std;
+
+#define&nbsp;ElemType&nbsp;int
+
+typedef&nbsp;struct&nbsp;Node{
+	ElemType&nbsp;data;
+	struct&nbsp;Node*&nbsp;next;
+}Node;
+typedef&nbsp;struct&nbsp;Node*&nbsp;LinkList;
+
+void&nbsp;InitLinkList(LinkList*&nbsp;ll)
+{
+	*ll&nbsp;=&nbsp;NULL;
+}
+//在链表头进行插入&nbsp;
+bool&nbsp;addNodeHead(LinkList*&nbsp;ll,&nbsp;ElemType&nbsp;e)
+{
+	Node&nbsp;*t;
+	t&nbsp;=&nbsp;new&nbsp;Node;
+	if(t){
+		t-&gt;data&nbsp;=&nbsp;e;
+		t-&gt;next&nbsp;=&nbsp;NULL;
+	}else{
+		return&nbsp;false;
+	}
+	if(*ll&nbsp;==&nbsp;NULL){
+		*ll&nbsp;=&nbsp;t;
+	}else{
+		t-&gt;next&nbsp;=&nbsp;*ll;
+		*ll&nbsp;=&nbsp;t;
+	}
+	return&nbsp;true;
+}
+//添加节点到尾节点&nbsp;
+bool&nbsp;addNodeTail(LinkList*&nbsp;ll,&nbsp;ElemType&nbsp;e)
+{
+	Node&nbsp;*p,*q;
+	p&nbsp;=&nbsp;new&nbsp;Node;
+	if(p){
+		p-&gt;data&nbsp;=&nbsp;e;
+		p-&gt;next&nbsp;=&nbsp;NULL;		
+	}else{
+		return&nbsp;false;
+	}
+	if(*ll&nbsp;==&nbsp;NULL){
+		*ll&nbsp;=&nbsp;p;
+		return&nbsp;true;
+	}else{
+		q&nbsp;=&nbsp;*ll;
+		while(q-&gt;next){
+			q&nbsp;=&nbsp;q-&gt;next;
+		}
+		q-&gt;next&nbsp;=&nbsp;p;
+	}
+	return&nbsp;true;	
+}
+//在第i个节点后插入节点
+bool&nbsp;insertNode(LinkList*&nbsp;ll,&nbsp;int&nbsp;i,&nbsp;ElemType&nbsp;e)
+{
+	int&nbsp;j;
+	Node&nbsp;*p,&nbsp;*q;
+	p&nbsp;=&nbsp;*ll;
+	j&nbsp;=&nbsp;1;
+	while(p&nbsp;&amp;&amp;&nbsp;j&lt;i){
+		p&nbsp;=&nbsp;p-&gt;next;
+		++j;
+	}
+	if(p&nbsp;&amp;&amp;&nbsp;i&nbsp;==&nbsp;j){
+		q&nbsp;=&nbsp;new&nbsp;Node;
+		q-&gt;data&nbsp;=&nbsp;e;
+		q-&gt;next&nbsp;=&nbsp;p-&gt;next;
+		p-&gt;next&nbsp;=&nbsp;q;
+		return&nbsp;true;
+	}
+	
+	return&nbsp;false;
+}
+//放回值尾e的节点的上一个节点&nbsp;
+Node*&nbsp;searchNode(LinkList&nbsp;*ll,&nbsp;ElemType&nbsp;e)
+{
+	if(*ll&nbsp;==&nbsp;NULL){
+		return&nbsp;NULL;
+	}
+	Node&nbsp;*p;
+	p&nbsp;=&nbsp;*ll;
+	
+	while(p&nbsp;&amp;&amp;&nbsp;p-&gt;next&nbsp;&amp;&amp;&nbsp;p-&gt;next-&gt;data&nbsp;!=&nbsp;e){
+		p&nbsp;=&nbsp;p-&gt;next;
+	}
+	if(p&nbsp;==&nbsp;NULL){
+		return&nbsp;NULL;
+	}else{
+		return&nbsp;p;
+	}&nbsp;
+	
+}
+//删除第i个节点&nbsp;
+bool&nbsp;deleteNode(LinkList&nbsp;*ll,&nbsp;int&nbsp;i,&nbsp;ElemType&nbsp;*e)
+{
+	int&nbsp;j&nbsp;=&nbsp;1;
+	Node&nbsp;*p,&nbsp;*t;
+	p&nbsp;=&nbsp;*ll;
+	i--;
+	while&nbsp;(p-&gt;next&nbsp;&amp;&amp;&nbsp;j&lt;i){
+		p&nbsp;=&nbsp;p-&gt;next;
+		j++;
+	}
+	if(p&nbsp;&amp;&amp;&nbsp;i==j){
+		t&nbsp;=&nbsp;p-&gt;next;
+		p-&gt;next&nbsp;=&nbsp;p-&gt;next-&gt;next;
+		*e&nbsp;=&nbsp;t-&gt;data;
+		delete&nbsp;t;
+		return&nbsp;true;
+	}
+	return&nbsp;false;
+}
+//删除值为e的节点
+bool&nbsp;deleteNodeByElem(LinkList&nbsp;*ll,&nbsp;ElemType&nbsp;e)
+{
+	Node&nbsp;*p,&nbsp;*t;
+	p&nbsp;=&nbsp;searchNode(ll,&nbsp;e);
+	if(p){
+		t&nbsp;=&nbsp;p-&gt;next;
+		p-&gt;next&nbsp;=&nbsp;p-&gt;next-&gt;next;
+		delete&nbsp;t;
+	}else{
+		return&nbsp;false;
+	}&nbsp;
+}&nbsp;
+&nbsp;
+//打印单链表&nbsp;
+void&nbsp;printLinkList(LinkList*&nbsp;ll)
+{
+	int&nbsp;i&nbsp;=&nbsp;1;
+	Node&nbsp;*q;
+	q&nbsp;=&nbsp;*ll;
+	while(q){
+		cout&lt;&lt;i&lt;&lt;&#39;:&#39;&lt;&lt;q-&gt;data&lt;&lt;endl;
+		i++;
+		q&nbsp;=&nbsp;q-&gt;next;
+	}	
+}
+&nbsp;&nbsp;
+int&nbsp;main()
+{
+	LinkList&nbsp;ll;
+	ElemType&nbsp;e;
+	e&nbsp;=&nbsp;1;
+	Node&nbsp;*p;
+	InitLinkList(&amp;ll);
+	
+	if(!addNodeTail(&amp;ll,&nbsp;2)){
+		cout&lt;&lt;&quot;insert&nbsp;fasle&quot;&lt;&lt;endl;
+	}
+	
+	if(!addNodeTail(&amp;ll,&nbsp;3)){
+		cout&lt;&lt;&quot;insert&nbsp;fasle&quot;&lt;&lt;endl;
+	}
+	if(!addNodeHead(&amp;ll,&nbsp;1)){
+		cout&lt;&lt;&quot;insert&nbsp;fasle&quot;&lt;&lt;endl;
+	}
+	
+	printLinkList(&amp;ll);
+//	if(!deleteNode(&amp;ll,&nbsp;2,&nbsp;&amp;e)){
+//		cout&lt;&lt;&quot;delete&nbsp;false&quot;&lt;&lt;endl;
+//	}
+	if(!deleteNodeByElem(&amp;ll,&nbsp;2)){
+		cout&lt;&lt;&quot;delete&nbsp;false&quot;&lt;&lt;endl;
+	}
+	cout&lt;&lt;&quot;-----------------------------&quot;&lt;&lt;endl;
+	printLinkList(&amp;ll);
+	p&nbsp;=&nbsp;searchNode(&amp;ll,&nbsp;3);
+	if(p){
+		cout&lt;&lt;p-&gt;data&lt;&lt;endl;
+	}
+	return&nbsp;0;
+}</pre><p><br/></p>

@@ -1,0 +1,7 @@
+<p>Traversable（遍历）接口，并未定义任何方法，只是提供给那些需要遍历的类可以使用foreach遍历的特性；但不允许在脚本中使用，只有<span style="font-size: 16px; background-color: rgb(255, 0, 0);"><span class="classname" style="font-size: 16px; text-rendering: optimizeLegibility; color: rgb(51, 51, 51); font-family: &#39;Fira Sans&#39;, &#39;Source Sans Pro&#39;, Helvetica, Arial, sans-serif; line-height: 24px;">IteratorAggregate</span><span style="font-size: 16px; color: rgb(51, 51, 51); font-family: &#39;Fira Sans&#39;, &#39;Source Sans Pro&#39;, Helvetica, Arial, sans-serif; line-height: 24px;">&nbsp;或&nbsp;</span><span class="classname" style="font-size: 16px; text-rendering: optimizeLegibility; color: rgb(51, 51, 51); font-family: &#39;Fira Sans&#39;, &#39;Source Sans Pro&#39;, Helvetica, Arial, sans-serif; line-height: 24px;">Iterator</span><span style="font-size: 16px; color: rgb(51, 51, 51); font-family: &#39;Fira Sans&#39;, &#39;Source Sans Pro&#39;, Helvetica, Arial, sans-serif; line-height: 24px;">&nbsp;接口实现；</span></span></p><p><br/></p><p>那这个类怎么为大家提供点服务那，可以配合instanceof来判断一个对象是否可以遍历：<br/></p><pre class="brush:php;toolbar:false;">$arr&nbsp;=&nbsp;new&nbsp;SplFixedArray(3);
+
+if($arr&nbsp;instanceof&nbsp;Traversable){
+&nbsp;&nbsp;&nbsp;&nbsp;echo&nbsp;&#39;enable&#39;;
+}else{
+&nbsp;&nbsp;&nbsp;&nbsp;echo&nbsp;&#39;false&#39;;
+}</pre><p><br/></p>

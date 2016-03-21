@@ -8,5 +8,5 @@
 		'DB_PWD'    => '13064236983adgjm', // 密码
 		'DB_PORT'   => 3306, // 端口
 		'DB_CHARSET'  =>'utf8', // 字符集
-                'SHOW_PAGE_TRACE'=>false
+		'SHOW_PAGE_TRACE'=>false
 	     );
