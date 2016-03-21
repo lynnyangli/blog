@@ -1,4 +1,5 @@
-**/Conf/*
+/Admin/Conf/config.php
+/Home/Conf/config.php
 /Admin/public/article/*
 /Admin/public/upload/*
 **/Runtime/*
