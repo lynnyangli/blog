@@ -1,6 +1,6 @@
 
 var name;
-var conetnt;
+var content;
 function commitComment(id)
 {
      name = document.getElementById("commentname").value;
@@ -34,6 +34,7 @@ function commit(id)
                     alert('出错了，稍后在评论');
                 }else{
                     addNode(response_data);
+                    alert('留言成功');
                 }
             }
         }

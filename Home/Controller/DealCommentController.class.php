@@ -7,8 +7,7 @@ use Think\Controller;
 class DealCommentController extends Controller{
 
     function index()
-    {   header("Content-type: text/html; charset=utf-8");
-
+    {
         $name_error = array(
             'l不要y',
             '博主',
@@ -33,7 +32,7 @@ class DealCommentController extends Controller{
 
     }
 
-    function addNode($id,$name,$conetnt)
+    private function addNode($id,$name,$conetnt)
     {
         $article_db = M('articles');
 
@@ -87,7 +86,7 @@ class DealCommentController extends Controller{
         }
     }
     //添加评论文件
-    function addCommentFile($id,$article_db)
+    private function addCommentFile($id,$article_db)
     {
         $xml_mould = '<?xml version="1.0" encoding="utf-8" ?>
             <comment>
