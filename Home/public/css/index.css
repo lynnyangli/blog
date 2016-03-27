@@ -42,14 +42,14 @@
              display: block;
              height: 8em;
           }
-          .master-sum{
+          .master-a-sum{
             float: left;
             display: inline;
             margin-left: 1em;
             border: 1px solid #ccc;
             padding: 0.2em 0.8em;
           }
-          .master-read{
+          .master-read-sum{
              float: right;
              display:inline;
 		margin-right:1em;
@@ -64,7 +64,7 @@
 
          .max-list-col{
             margin-top: 10px;
-            /*border-left: 2px solid black;*/
+            font-size: 0.8em;
           }
           .content{
             padding-bottom: 3em;
@@ -78,7 +78,7 @@
           .max-list-ico{
             background-color: #00CD66;
             width:15px;     height:15px;
-            border: 0.2px solid red;
+            border: 0.2px solid #FFF;
             display:block;
             float: left;
             border-radius: 15px;

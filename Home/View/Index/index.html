@@ -27,9 +27,10 @@
             </div>
       </nav>
       <div class="container">
+
           <div class="row">
 
-              <div id="main-content-right" class="col-md-8 col-md-offset-1">
+              <div id="main-content-right" class="col-md-9">
 		
                 <foreach name="ARTICLES" item="vo">
                   <div class="content">
@@ -56,9 +57,9 @@
                                </ul>
                       </div>
                     </div>
-		</foreach>
+	  </foreach>
+             </div>
 
-              </div>
               <div  id="main-content-left" class="col-md-3">
                     <div class="master-info">
                         <img class="master-img"src="{$PUBLIC_PATH}/img/head_log.jpg">
@@ -66,14 +67,14 @@
                         <p class="text-center master-email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>:1083709608@qq.com</p>
                         <p class="text-center master-email"><span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span>:<a href="https://github.com/liyang-ly/" target="_blank">github.com/liyang-ly</a></p>
                         <div id="master-sum">
-                              <h3 class="master-sum">{$ARTICLES_SUM}<br><small>文章数</small></h3>
-                              <h3 class="master-read">{$READ_SUM}<br><small>阅读量</small></h3>
+                              <h3 class="master-a-sum">{$ARTICLES_SUM}<br><small>文章数</small></h3>
+                              <h3 class="master-read-sum">{$READ_SUM}<br><small>阅读量</small></h3>
                         </div>
 
                         <div class="max-list">
                           <ul class="list-unstyled ">
                               <foreach name="READ_RANK" item="vo">
-                                  <li class="max-list-col"><span class="max-list-ico"></span><a class="max-list-a" href="__APP__/Home/ShowArticle/index/id/{$vo.id}">{$vo.title}</a>&nbsp;&nbsp;&nbsp;<span class="badge">{$vo.read_sum}</span></li>
+                                  <li class="max-list-col"><span class="max-list-ico"></span><a class="max-list-a" href="__APP__/Home/ShowArticle/index/id/{$vo.id}">{$vo.title}</a>&nbsp;<span class="badge">{$vo.read_sum}</span></li>
                               </foreach>
                           </ul>
                     </div>

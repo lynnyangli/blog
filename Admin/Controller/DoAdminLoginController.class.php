@@ -4,10 +4,6 @@ use Think\Controller;
 class DoAdminLoginController extends Controller{
 	public function index()
 	{
-		//测试用，直接跳转而不做验证
-		//$this->success("测试免登陆","/index.php/Admin/");
-		//return;
-	
 		if($this->check_login()){
 			$this->success("登陆成功","/index.php/Admin/");
 			return;

@@ -8,8 +8,6 @@ class AdminLoginController extends Controller{
 			$this->success("已登陆",C("APP_NAME")."/index.php/Home");
 		}
 		$this->assign("PUBLIC_PATH",C("PUBLIC_PATH"));
-		 $this->assign("APP_NAME",C("APP_NAME"));
-		
 		$this->display();
 	}
 	//登陆判定

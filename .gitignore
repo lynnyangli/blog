@@ -1,6 +1,8 @@
 /Admin/Conf/config.php
 /Home/Conf/config.php
 /Admin/public/article/*
+/Admin/public/comment/*
 /Admin/public/upload/*
+/.idea/
 **/Runtime/*
 /school/
